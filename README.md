@@ -1,2 +1,2 @@
 # ATM-Machine
-Working of ATM Transcation using JAVA
+This code talks about transactions done through ATM's from entering Pin to Withdrawl.
